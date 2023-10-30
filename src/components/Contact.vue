@@ -4,7 +4,7 @@
       <span class="about-me"><strong>Contact</strong></span>
     </q-card-section>
 
-    <q-card-section> 
+    <q-card-section>
       <div class="row">
         <div class="col-4">
           <p>
